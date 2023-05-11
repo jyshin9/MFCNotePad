@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(MFCNotePad.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  MFCNotePadDlg.cpp
+C:\Users\jyshin\Desktop\tilon\06_OJT\MFC\MFCNotePad\MFCNotePad\MFCNotePadDlg.cpp(173,25): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jyshin\Desktop\tilon\06_OJT\MFC\MFCNotePad\MFCNotePad\MFCNotePadDlg.cpp(250,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jyshin\Desktop\tilon\06_OJT\MFC\MFCNotePad\MFCNotePad\MFCNotePadDlg.cpp(203): warning C4715: 'CMFCNotePadDlg::OnSave': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MFCNotePad.vcxproj -> C:\Users\jyshin\Desktop\tilon\06_OJT\MFC\MFCNotePad\Debug\MFCNotePad2.exe
